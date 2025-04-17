@@ -7,6 +7,12 @@ Scrape emails, phone numbers, and contact details from 25+ social platforms with
 ---
 
 ## video 
+<a href="https://youtu.be/wbvCsIzzNUI" target="_blank">
+    <img src="https://i.ibb.co/xzxBQWw/ytbdemo.png" alt="Social Media Emails|Phones|Any Bulk Scrape & Extractor Pro-how to bulk extract email? Email extraction software,Extract email addresses,Email scraping,Email grabber,Email list extractor" />
+</a>
+<a href="https://youtu.be/pORRiEVcFVQ" target="_blank">
+    <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Social Media Emails|Phones|Any Bulk Scrape & Extractor Pro-how to extract social media? Email crawler,Online email extractor,Email harvesting,Email finder,Email collector,Email grab tool" />
+</a>
 
 ## 📬 Support
 - ❤️ Download: 👉 https://bit.ly/socialmediaextact
@@ -16,12 +22,7 @@ Scrape emails, phone numbers, and contact details from 25+ social platforms with
 - ❤️Telegram Support Group:👉 https://t.me/tghelpsupport
 - 
 ## 🚀 Key Features
-<a href="https://youtu.be/wbvCsIzzNUI" target="_blank">
-    <img src="https://i.ibb.co/xzxBQWw/ytbdemo.png" alt="Social Media Emails|Phones|Any Bulk Scrape & Extractor Pro-how to bulk extract email? Email extraction software,Extract email addresses,Email scraping,Email grabber,Email list extractor" />
-</a>
-<a href="https://youtu.be/pORRiEVcFVQ" target="_blank">
-    <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Social Media Emails|Phones|Any Bulk Scrape & Extractor Pro-how to extract social media? Email crawler,Online email extractor,Email harvesting,Email finder,Email collector,Email grab tool" />
-</a>
+
 
 ### 🌐 Multi-Platform Scraping
 - **25+ Social Networks**: LinkedIn, Facebook, TikTok, YouTube, Twitter, Snapchat, Discord +18 more
